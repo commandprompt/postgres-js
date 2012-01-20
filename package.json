@@ -4,7 +4,7 @@
  "homepage": "https://public.commandprompt.com/projects/postgres-js/",
  "author": {
     "name": "Aurynn Shaw",
-    "email": "ashaw@commandprompt.com",
+    "email": "ashaw@commandprompt.com"
  },
- "main": "lib/postgres-pure",
+ "main": "lib/postgres-pure"
 }
